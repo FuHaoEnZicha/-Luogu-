@@ -5,7 +5,7 @@ int a[100005],b[100005],n,maxn = 0;
 int main()
 {
     cin >> n;
-    for (int i = 1;i <= n;i++)
+    for (int i = 1;i <= n;i++)   
     {
         cin >> a[i];
         if (a[i] > maxn)
