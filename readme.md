@@ -10,4 +10,5 @@
 [B3823 [NICA #2] 拉面馆](https://github.com/FuHaoEnZicha/-Luogu-/tree/main/B3823%20%5BNICA%20%232%5D%20%E6%8B%89%E9%9D%A2%E9%A6%86)  
 [B3792 [NICA #1] 年龄问题](https://github.com/FuHaoEnZicha/-Luogu-/tree/main/B3792%20%5BNICA%20%231%5D%20%E5%B9%B4%E9%BE%84%E9%97%AE%E9%A2%98)  
 [B2098 整数去重](https://github.com/FuHaoEnZicha/-Luogu-/tree/main/B2098%20%E6%95%B4%E6%95%B0%E5%8E%BB%E9%87%8D)  
-[B2104 矩阵加法](https://github.com/FuHaoEnZicha/-Luogu-/tree/main/B2098%20%E6%95%B4%E6%95%B0%E5%8E%BB%E9%87%8D)  
+[B2104 矩阵加法](https://github.com/FuHaoEnZicha/-Luogu-/tree/main/B2104%20%E7%9F%A9%E9%98%B5%E5%8A%A0%E6%B3%95)  
+[B2111 基因相关性](https://github.com/FuHaoEnZicha/-Luogu-/tree/main/B2111%20%E5%9F%BA%E5%9B%A0%E7%9B%B8%E5%85%B3%E6%80%A7)
