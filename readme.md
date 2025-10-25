@@ -23,8 +23,8 @@
 [P5716 【深基3.例9】月份天数](https://github.com/FuHaoEnZicha/-Luogu-/tree/main/P5716%20%E3%80%90%E6%B7%B1%E5%9F%BA3.%E4%BE%8B9%E3%80%91%E6%9C%88%E4%BB%BD%E5%A4%A9%E6%95%B0)  
 [P5719 【深基4.例3】分类平均](https://github.com/FuHaoEnZicha/-Luogu-/tree/main/P5719%20%E3%80%90%E6%B7%B1%E5%9F%BA4.%E4%BE%8B3%E3%80%91%E5%88%86%E7%B1%BB%E5%B9%B3%E5%9D%87)  
 [P5718 【深基4.例2】找最小值](https://github.com/FuHaoEnZicha/-Luogu-/tree/main/P5718%20%E3%80%90%E6%B7%B1%E5%9F%BA4.%E4%BE%8B2%E3%80%91%E6%89%BE%E6%9C%80%E5%B0%8F%E5%80%BC)  
-[P5720 【深基4.例4】一尺之棰]()
-[P5721 【深基4.例6】数字直角三角形]()
+[P5720 【深基4.例4】一尺之棰](https://github.com/FuHaoEnZicha/-Luogu-/tree/main/P5720%20%E3%80%90%E6%B7%B1%E5%9F%BA4.%E4%BE%8B4%E3%80%91%E4%B8%80%E5%B0%BA%E4%B9%8B%E6%A3%B0)  
+[P5721 【深基4.例6】数字直角三角形](https://github.com/FuHaoEnZicha/-Luogu-/tree/main/P5721%20%E3%80%90%E6%B7%B1%E5%9F%BA4.%E4%BE%8B6%E3%80%91%E6%95%B0%E5%AD%97%E7%9B%B4%E8%A7%92%E4%B8%89%E8%A7%92%E5%BD%A2)
 ### 题单
   
 ### 自创
