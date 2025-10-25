@@ -3,7 +3,7 @@
 ### 简介
 **这是我在洛谷题库上的一些开源、AC代码**  
 访问[洛谷(luogu)](https://www.luogu.com.cn/user/1436745)主页--  
-请不要抄袭！ 
+请不要抄袭！   
 [代码框架](https://github.com/FuHaoEnZicha/-Luogu-/blob/main/%E4%BB%A3%E7%A0%81%E6%A1%86%E6%9E%B6.cpp)  
 ### 以下是题目链接
 [B2001 入门测试题目](https://github.com/FuHaoEnZicha/-Luogu-/tree/main/B2001%20%E5%85%A5%E9%97%A8%E6%B5%8B%E8%AF%95%E9%A2%98%E7%9B%AE)  
