@@ -27,7 +27,7 @@
 [P5720 【深基4.例4】一尺之棰](https://github.com/FuHaoEnZicha/-Luogu-/tree/main/P5720%20%E3%80%90%E6%B7%B1%E5%9F%BA4.%E4%BE%8B4%E3%80%91%E4%B8%80%E5%B0%BA%E4%B9%8B%E6%A3%B0)  
 [P5721 【深基4.例6】数字直角三角形](https://github.com/FuHaoEnZicha/-Luogu-/tree/main/P5721%20%E3%80%90%E6%B7%B1%E5%9F%BA4.%E4%BE%8B6%E3%80%91%E6%95%B0%E5%AD%97%E7%9B%B4%E8%A7%92%E4%B8%89%E8%A7%92%E5%BD%A2)  
 [P1423 小玉在游泳](https://github.com/FuHaoEnZicha/-Luogu-/tree/main/P1423%20%E5%B0%8F%E7%8E%89%E5%9C%A8%E6%B8%B8%E6%B3%B3)  
-[]()
+**因特殊问题不放置链接！请自行搜索！**
 ### 题单
   
 ### 自创
