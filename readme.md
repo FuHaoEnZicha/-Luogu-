@@ -5,29 +5,6 @@
 访问[洛谷(luogu)](https://www.luogu.com.cn/user/1436745)主页--  
 请不要抄袭！   
 [代码框架](https://github.com/FuHaoEnZicha/-Luogu-/blob/main/%E4%BB%A3%E7%A0%81%E6%A1%86%E6%9E%B6.cpp)  
-### 以下是题目链接
-[B2001 入门测试题目](https://github.com/FuHaoEnZicha/-Luogu-/tree/main/B2001%20%E5%85%A5%E9%97%A8%E6%B5%8B%E8%AF%95%E9%A2%98%E7%9B%AE)  
-[B2096 直方图](https://github.com/FuHaoEnZicha/-Luogu-/tree/main/B2096%20%E7%9B%B4%E6%96%B9%E5%9B%BE)  
-[B2087 与指定数字相同的数的个数](https://github.com/FuHaoEnZicha/-Luogu-/tree/main/B2087%20%E4%B8%8E%E6%8C%87%E5%AE%9A%E6%95%B0%E5%AD%97%E7%9B%B8%E5%90%8C%E7%9A%84%E6%95%B0%E7%9A%84%E4%B8%AA%E6%95%B0)  
-[B3823 [NICA #2] 拉面馆](https://github.com/FuHaoEnZicha/-Luogu-/tree/main/B3823%20%5BNICA%20%232%5D%20%E6%8B%89%E9%9D%A2%E9%A6%86)  
-[B3792 [NICA #1] 年龄问题](https://github.com/FuHaoEnZicha/-Luogu-/tree/main/B3792%20%5BNICA%20%231%5D%20%E5%B9%B4%E9%BE%84%E9%97%AE%E9%A2%98)  
-[B2098 整数去重](https://github.com/FuHaoEnZicha/-Luogu-/tree/main/B2098%20%E6%95%B4%E6%95%B0%E5%8E%BB%E9%87%8D)  
-[B2104 矩阵加法](https://github.com/FuHaoEnZicha/-Luogu-/tree/main/B2104%20%E7%9F%A9%E9%98%B5%E5%8A%A0%E6%B3%95)  
-[B2111 基因相关性](https://github.com/FuHaoEnZicha/-Luogu-/tree/main/B2111%20%E5%9F%BA%E5%9B%A0%E7%9B%B8%E5%85%B3%E6%80%A7)  
-[B2150 判断闰年](https://github.com/FuHaoEnZicha/-Luogu-/tree/main/B2150%20%E5%88%A4%E6%96%AD%E9%97%B0%E5%B9%B4)  
-[P5710 【深基3.例2】数的性质](https://github.com/FuHaoEnZicha/-Luogu-/tree/main/P5710%20%E3%80%90%E6%B7%B1%E5%9F%BA3.%E4%BE%8B2%E3%80%91%E6%95%B0%E7%9A%84%E6%80%A7%E8%B4%A8)  
-[P5711 【深基3.例3】闰年判断](https://github.com/FuHaoEnZicha/-Luogu-/tree/main/P5711%20%E3%80%90%E6%B7%B1%E5%9F%BA3.%E4%BE%8B3%E3%80%91%E9%97%B0%E5%B9%B4%E5%88%A4%E6%96%AD)  
-[P5712 【深基3.例4】Apples](https://github.com/FuHaoEnZicha/-Luogu-/tree/main/P5712%20%E3%80%90%E6%B7%B1%E5%9F%BA3.%E4%BE%8B4%E3%80%91Apples)  
-[P5713 【深基3.例5】洛谷团队系统](https://github.com/FuHaoEnZicha/-Luogu-/tree/main/P5713%20%E3%80%90%E6%B7%B1%E5%9F%BA3.%E4%BE%8B5%E3%80%91%E6%B4%9B%E8%B0%B7%E5%9B%A2%E9%98%9F%E7%B3%BB%E7%BB%9F)  
-[P5714 【深基3.例7】肥胖问题](https://github.com/FuHaoEnZicha/-Luogu-/tree/main/P5714%20%E3%80%90%E6%B7%B1%E5%9F%BA3.%E4%BE%8B7%E3%80%91%E8%82%A5%E8%83%96%E9%97%AE%E9%A2%98)  
-[P5715 【深基3.例8】三位数排序](https://github.com/FuHaoEnZicha/-Luogu-/tree/main/P5715%20%E3%80%90%E6%B7%B1%E5%9F%BA3.%E4%BE%8B8%E3%80%91%E4%B8%89%E4%BD%8D%E6%95%B0%E6%8E%92%E5%BA%8F)  
-[P5716 【深基3.例9】月份天数](https://github.com/FuHaoEnZicha/-Luogu-/tree/main/P5716%20%E3%80%90%E6%B7%B1%E5%9F%BA3.%E4%BE%8B9%E3%80%91%E6%9C%88%E4%BB%BD%E5%A4%A9%E6%95%B0)  
-[P5719 【深基4.例3】分类平均](https://github.com/FuHaoEnZicha/-Luogu-/tree/main/P5719%20%E3%80%90%E6%B7%B1%E5%9F%BA4.%E4%BE%8B3%E3%80%91%E5%88%86%E7%B1%BB%E5%B9%B3%E5%9D%87)  
-[P5718 【深基4.例2】找最小值](https://github.com/FuHaoEnZicha/-Luogu-/tree/main/P5718%20%E3%80%90%E6%B7%B1%E5%9F%BA4.%E4%BE%8B2%E3%80%91%E6%89%BE%E6%9C%80%E5%B0%8F%E5%80%BC)  
-[P5720 【深基4.例4】一尺之棰](https://github.com/FuHaoEnZicha/-Luogu-/tree/main/P5720%20%E3%80%90%E6%B7%B1%E5%9F%BA4.%E4%BE%8B4%E3%80%91%E4%B8%80%E5%B0%BA%E4%B9%8B%E6%A3%B0)  
-[P5721 【深基4.例6】数字直角三角形](https://github.com/FuHaoEnZicha/-Luogu-/tree/main/P5721%20%E3%80%90%E6%B7%B1%E5%9F%BA4.%E4%BE%8B6%E3%80%91%E6%95%B0%E5%AD%97%E7%9B%B4%E8%A7%92%E4%B8%89%E8%A7%92%E5%BD%A2)  
-[P1423 小玉在游泳](https://github.com/FuHaoEnZicha/-Luogu-/tree/main/P1423%20%E5%B0%8F%E7%8E%89%E5%9C%A8%E6%B8%B8%E6%B3%B3)  
-**因特殊问题不*再* 放置链接！请自行搜索！**
 ### 题单
   
 ### 自创
